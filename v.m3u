@@ -1,0 +1,992 @@
+#EXTM3U
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="165" tvg-name="ABC" tvg-logo="https://www.visionplus.id/images/repository/689/689-LOGO-l.png" group-title="CH V+ (General)",ABC (V+)
+https://proxy-v.rctiplus.id/live/web/abcaus/index.m3u8
+
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="153" tvg-name="Al Quran Al Kareem" tvg-logo="https://www.visionplus.id/images/repository/677/677-LOGO-l.png" group-title="CH V+ (General)",Al Quran Al Kareem (V+)
+https://proxy-v.rctiplus.id/live/web/alquran/index.m3u8
+
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="149" tvg-name="Aljazeera" tvg-logo="https://www.visionplus.id/images/repository/850/850-LOGO-l.png" group-title="CH V+ (General)",Aljazeera (V+)
+https://proxy-v.rctiplus.id/live/web/aljazeera/index.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=65
+#EXTINF:-1 tvg-id="65" tvg-name="Animax" tvg-logo="https://www.visionplus.id/images/repository/628/628-LOGO-l.png" group-title="CH V+ (Kids)",Animax (V+)
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=10
+#EXTINF:-1 tvg-id="10" tvg-name="ANTV" tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-l.png" group-title="CH V+ (National)",ANTV (V+)
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=164
+#EXTINF:-1 tvg-id="164" tvg-name="Arirang" tvg-logo="https://www.visionplus.id/images/repository/688/688-LOGO-l.png" group-title="CH V+ (General)",Arirang (V+)
+https://dv6fza91pwlw3.cloudfront.net/out/v1/6f059cfe2653405aab54a7887f92ac39/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=79
+#EXTINF:-1 tvg-id="79" tvg-name="AXN" tvg-logo="https://www.visionplus.id/images/repository/638/638-LOGO-l.png" group-title="CH V+ (General)",AXN (V+)
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
+
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="26" tvg-name="Bali TV" tvg-logo="https://www.visionplus.id/images/repository/700/700-LOGO-l.png" group-title="CH V+ (General)",Bali TV (V+)
+https://proxy-v.rctiplus.id/live/web/balitv/index.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=102
+#EXTINF:-1 tvg-id="102" tvg-name="BBC Earth" tvg-logo="https://www.visionplus.id/images/repository/671/493671-LOGO-l.png" group-title="CH V+ (News)",BBC Earth (V+)
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=130
+#EXTINF:-1 tvg-id="130" tvg-name="BBC World news" tvg-logo="https://www.visionplus.id/images/repository/672/493672-LOGO-l.png" group-title="CH V+ (News)",BBC World news (V+)
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/7d38a4525dfa42b08a94c22c173061da/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=122
+#EXTINF:-1 tvg-id="122" tvg-name="beIN SPORTS" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-l.png" group-title="CH V+ (Sports)",beIN SPORTS (V+)
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=123
+#EXTINF:-1 tvg-id="123" tvg-name="beIN SPORTS 2" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-l.png" group-title="CH V+ (Sports)",beIN SPORTS 2 (V+)
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=124
+#EXTINF:-1 tvg-id="124" tvg-name="beIN SPORTS 3" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-l.png" group-title="CH V+ (Sports)",beIN SPORTS 3 (V+)
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=125
+#EXTINF:-1 tvg-id="125" tvg-name="beIN SPORTS 4" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-l.png" group-title="CH V+ (Sports)",beIN SPORTS 4 (V+)
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=126
+#EXTINF:-1 tvg-id="126" tvg-name="beIN SPORTS 5" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-l.png" group-title="CH V+ (Sports)",beIN SPORTS 5 (V+)
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=133
+#EXTINF:-1 tvg-id="133" tvg-name="Bloomberg" tvg-logo="https://www.visionplus.id/images/repository/663/663-LOGO-l.png" group-title="CH V+ (General)",Bloomberg (V+)
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3212c95b42154b6284671f28cc2c943c/index.mpd
+
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="15" tvg-name="BTV" tvg-logo="https://www.visionplus.id/images/repository/357/273357-LOGO-l.png" group-title="CH V+ (General)",BTV (V+)
+https://proxy-v.rctiplus.id/live/web/btv/index.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=37
+#EXTINF:-1 tvg-id="37" tvg-name="Buddy Star" tvg-logo="https://www.visionplus.id/images/repository/392/273392-LOGO-l.png" group-title="CH V+ (General)",Buddy Star (V+)
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=58
+#EXTINF:-1 tvg-id="58" tvg-name="Cbeebies" tvg-logo="https://www.visionplus.id/images/repository/670/493670-LOGO-l.png" group-title="CH V+ (Kids)",Cbeebies (V+)
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
+
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="45" tvg-name="CCM" tvg-logo="https://www.visionplus.id/images/repository/613/613-LOGO-l.png" group-title="CH V+ (General)",CCM (V+)
+https://proxy-v.rctiplus.id/live/ios/celestialclassic/index.m3u8
+
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="44" tvg-name="Celestial Movies" tvg-logo="https://www.visionplus.id/images/repository/612/612-LOGO-l.png" group-title="CH V+ (Movies)",Celestial Movies (V+)
+https://proxy-v.rctiplus.id/live/ios/celestialmovies/index.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=156
+#EXTINF:-1 tvg-id="156" tvg-name="CGTN" tvg-logo="https://www.visionplus.id/images/repository/680/680-LOGO-l.png" group-title="CH V+ (General)",CGTN (V+)
+https://d3rzhldmr21hry.cloudfront.net/out/v1/c3e6d7241fbf404082087774d7221635/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=155
+#EXTINF:-1 tvg-id="155" tvg-name="CGTN Documentary" tvg-logo="https://www.visionplus.id/images/repository/679/679-LOGO-l.png" group-title="CH V+ (General)",CGTN Documentary (V+)
+https://d1ebgtxjo246w3.cloudfront.net/out/v1/9757e131659a4ab8ba08d448c4a3779e/index.mpd
+
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="152" tvg-name="Channel News Asia" tvg-logo="https://www.visionplus.id/images/repository/847/847-LOGO-l.png" group-title="CH V+ (News)",Channel News Asia (V+)
+https://proxy-v.rctiplus.id/live/web/cna/index.m3u8
+
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="40" tvg-name="Cineedge" tvg-logo="https://www.visionplus.id/images/repository/376/273376-LOGO-l.png" group-title="CH V+ (General)",Cineedge (V+)
+https://proxy-v.rctiplus.id/live/web/cineedge/index.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=131
+#EXTINF:-1 tvg-id="131" tvg-name="CNBC Asia" tvg-logo="https://www.visionplus.id/images/repository/382/600382-LOGO-l.png" group-title="CH V+ (News)",CNBC Asia (V+)
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=95
+#EXTINF:-1 tvg-id="95" tvg-name="Crime Investigation" tvg-logo="https://www.visionplus.id/images/repository/646/646-LOGO-l.png" group-title="CH V+ (General)",Crime Investigation (V+)
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd
+
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="251" tvg-name="DENS Food Channel" tvg-logo="https://www.visionplus.id/images/repository/711/112711-LOGO-l.png" group-title="CH V+ (General)",DENS Food Channel (V+)
+https://op-flashcon-digdayavisionhd-1.dens.tv/h/h221/index.m3u8
+
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="253" tvg-name="DENS Showbizz Channel" tvg-logo="https://www.visionplus.id/images/repository/712/112712-LOGO-l.png" group-title="CH V+ (General)",DENS Showbizz Channel (V+)
+https://op-flashcon-digdayavisionhd-1.dens.tv/h/h244/index.m3u8
+
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="252" tvg-name="DENSPLAY Channel" tvg-logo="https://www.visionplus.id/images/repository/088/115088-LOGO-l.png" group-title="CH V+ (General)",DENSPLAY Channel (V+)
+https://op-flashcon-digdayavisionhd-1.dens.tv/h/h246/index.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=204
+#EXTINF:-1 tvg-id="204" tvg-name="Drama World" tvg-logo="https://www.visionplus.id/images/repository/427/173427-LOGO-l.png" group-title="CH V+ (General)",Drama World (V+)
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/db82aed7a1864935b8b8f960651c3db7/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=67
+#EXTINF:-1 tvg-id="67" tvg-name="Dream Works" tvg-logo="https://www.visionplus.id/images/repository/630/630-LOGO-l.png" group-title="CH V+ (Kids)",Dream Works (V+)
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd
+
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="146" tvg-name="DW" tvg-logo="https://www.visionplus.id/images/repository/670/670-LOGO-l.png" group-title="CH V+ (General)",DW (V+)
+https://proxy-v.rctiplus.id/live/web/dwtv/index.m3u8
+
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="72" tvg-name="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/632/632-LOGO-l.png" group-title="CH V+ (General)",Entertainment (V+)
+https://proxy-v.rctiplus.id/live/web/mncent/index.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=151
+#EXTINF:-1 tvg-id="151" tvg-name="EURONEWS" tvg-logo="https://www.visionplus.id/images/repository/675/675-LOGO-l.png" group-title="CH V+ (News)",EURONEWS (V+)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/23af54d57d8a447dbf0621ec71d89e7e/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=121
+#EXTINF:-1 tvg-id="121" tvg-name="Fight Sports" tvg-logo="https://www.visionplus.id/images/repository/658/658-LOGO-l.png" group-title="CH V+ (Sports)",Fight Sports (V+)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
+
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="132" tvg-name="FOX News" tvg-logo="https://www.visionplus.id/images/repository/662/662-LOGO-l.png" group-title="CH V+ (News)",FOX News (V+)
+https://proxy-v.rctiplus.id/live/web/foxnews/index.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=147
+#EXTINF:-1 tvg-id="147" tvg-name="France 24" tvg-logo="https://www.visionplus.id/images/repository/671/671-LOGO-l.png" group-title="CH V+ (General)",France 24 (V+)
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/498b57e974a843d28ea1a393603e5318/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=49
+#EXTINF:-1 tvg-id="49" tvg-name="GALAXY" tvg-logo="https://www.visionplus.id/images/repository/617/617-LOGO-l.png" group-title="CH V+ (Movies)",GALAXY (V+)
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=48
+#EXTINF:-1 tvg-id="48" tvg-name="GALAXY PREMIUM" tvg-logo="https://www.visionplus.id/images/repository/616/616-LOGO-l.png" group-title="CH V+ (Movies)",GALAXY PREMIUM (V+)
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=103
+#EXTINF:-1 tvg-id="103" tvg-name="Global Trekker" tvg-logo="https://www.visionplus.id/images/repository/649/649-LOGO-l.png" group-title="CH V+ (General)",Global Trekker (V+)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/99b07f39f4964b7cb9bfc092b51af734/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=3
+#EXTINF:-1 tvg-id="3" tvg-name="GTV" tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-l.png" group-title="CH V+ (National)",GTV (V+)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=202
+#EXTINF:-1 tvg-id="202" tvg-name="GTV World" tvg-logo="https://www.visionplus.id/images/repository/424/173424-LOGO-l.png" group-title="CH V+ (National)",GTV World (V+)
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b2c774f2a6fc4cd1917459335d8231df/index.mpd
+
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="89" tvg-name="Hanacaraka TV" tvg-logo="https://www.visionplus.id/images/repository/705/243705-LOGO-l.png" group-title="CH V+ (General)",Hanacaraka TV (V+)
+https://proxy-v.rctiplus.id/live/web/hanacaraka/index.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=104
+#EXTINF:-1 tvg-id="104" tvg-name="History" tvg-logo="https://www.visionplus.id/images/repository/650/650-LOGO-l.png" group-title="CH V+ (General)",History (V+)
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/index.mpd
+
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="77" tvg-name="Hits" tvg-logo="https://www.visionplus.id/images/repository/637/637-LOGO-l.png" group-title="CH V+ (General)",Hits (V+)
+https://proxy-v.rctiplus.id/live/web/hits/index.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=42
+#EXTINF:-1 tvg-id="42" tvg-name="Hits Movies" tvg-logo="https://www.visionplus.id/images/repository/610/610-LOGO-l.png" group-title="CH V+ (Movies)",Hits Movies (V+)
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=68
+#EXTINF:-1 tvg-id="68" tvg-name="HITS Now" tvg-logo="https://www.visionplus.id/images/repository/376/612376-LOGO-l.png" group-title="CH V+ (General)",HITS Now (V+)
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/73b9fdd0cd0e4570b482c92fa43ecda9/index.mpd
+
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="160" tvg-name="Hunan TV" tvg-logo="https://www.visionplus.id/images/repository/853/853-LOGO-l.png" group-title="CH V+ (General)",Hunan TV (V+)
+https://proxy-v.rctiplus.id/live/web/hunan/index.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=134
+#EXTINF:-1 tvg-id="134" tvg-name="IDX" tvg-logo="https://www.visionplus.id/images/repository/659/659-LOGO-l.png" group-title="CH V+ (General)",IDX (V+)
+https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=9
+#EXTINF:-1 tvg-id="9" tvg-name="Indosiar" tvg-logo="https://www.visionplus.id/images/repository/066/569066-LOGO-l.png" group-title="CH V+ (National)",Indosiar (V+)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=4
+#EXTINF:-1 tvg-id="4" tvg-name="iNews" tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-l.png" group-title="CH V+ (National)",iNews (V+)
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=56
+#EXTINF:-1 tvg-id="56" tvg-name="Kids TV" tvg-logo="https://www.visionplus.id/images/repository/623/623-LOGO-l.png" group-title="CH V+ (Kids)",Kids TV (V+)
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
+
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="75" tvg-name="Kix" tvg-logo="https://www.visionplus.id/images/repository/635/635-LOGO-l.png" group-title="CH V+ (General)",Kix (V+)
+https://proxy-v.rctiplus.id/live/web/kix/index.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=13
+#EXTINF:-1 tvg-id="13" tvg-name="Kompas TV" tvg-logo="https://www.visionplus.id/images/repository/590/590-LOGO-l.png" group-title="CH V+ (National)",Kompas TV (V+)
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=138
+#EXTINF:-1 tvg-id="138" tvg-name="LIFE" tvg-logo="https://www.visionplus.id/images/repository/665/665-LOGO-l.png" group-title="CH V+ (General)",LIFE (V+)
+https://d2xx73ro32cip.cloudfront.net/out/v1/a61250017f23459692bf28a6841cf087/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=80
+#EXTINF:-1 tvg-id="80" tvg-name="Lifetime" tvg-logo="https://www.visionplus.id/images/repository/639/639-LOGO-l.png" group-title="CH V+ (General)",Lifetime (V+)
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/1880fc1b32d3449196e80345f6cd5918/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=105
+#EXTINF:-1 tvg-id="105" tvg-name="Love Nature" tvg-logo="https://www.visionplus.id/images/repository/682/295682-LOGO-l.png" group-title="CH V+ (General)",Love Nature (V+)
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=23
+#EXTINF:-1 tvg-id="23" tvg-name="MDTV" tvg-logo="https://www.visionplus.id/images/repository/334/320334-LOGO-l.png" group-title="CH V+ (General)",MDTV (V+)
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=20
+#EXTINF:-1 tvg-id="20" tvg-name="Mentari TV" tvg-logo="https://www.visionplus.id/images/repository/074/569074-LOGO-l.png" group-title="CH V+ (General)",Mentari TV (V+)
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=14
+#EXTINF:-1 tvg-id="14" tvg-name="Metro TV" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-l.png" group-title="CH V+ (General)",Metro TV (V+)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=2
+#EXTINF:-1 tvg-id="2" tvg-name="MNCTV" tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-l.png" group-title="CH V+ (National)",MNCTV (V+)
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=203
+#EXTINF:-1 tvg-id="203" tvg-name="MNCTV World" tvg-logo="https://www.visionplus.id/images/repository/425/173425-LOGO-l.png" group-title="CH V+ (National)",MNCTV World (V+)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/52f468e951c14c6ba80d4d31c833fce6/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=19
+#EXTINF:-1 tvg-id="19" tvg-name="Moji" tvg-logo="https://www.visionplus.id/images/repository/070/569070-LOGO-l.png" group-title="CH V+ (General)",Moji (V+)
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=57
+#EXTINF:-1 tvg-id="57" tvg-name="Moonbug" tvg-logo="https://www.visionplus.id/images/repository/909/162909-LOGO-l.png" group-title="CH V+ (General)",Moonbug (V+)
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/198f7febb48c4c909d62977d88c195b0/index.mpd
+
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="142" tvg-name="Music TV" tvg-logo="https://www.visionplus.id/images/repository/667/667-LOGO-l.png" group-title="CH V+ (Music)",Music TV (V+)
+https://proxy-v.rctiplus.id/live/web/musictv/index.m3u8
+
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="137" tvg-name="Muslim TV" tvg-logo="https://www.visionplus.id/images/repository/664/664-LOGO-l.png" group-title="CH V+ (General)",Muslim TV (V+)
+https://proxy-v.rctiplus.id/live/ios/muslimtv/index.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=162
+#EXTINF:-1 tvg-id="162" tvg-name="NHK" tvg-logo="https://www.visionplus.id/images/repository/686/686-LOGO-l.png" group-title="CH V+ (General)",NHK (V+)
+https://d3rzhldmr21hry.cloudfront.net/out/v1/8decf3562fe943e88872ef868d6fb6a5/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=76
+#EXTINF:-1 tvg-id="76" tvg-name="NHK World Premium" tvg-logo="https://www.visionplus.id/images/repository/636/636-LOGO-l.png" group-title="CH V+ (General)",NHK World Premium (V+)
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/85b02e02587747058c1940af6aa3d0fa/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=64
+#EXTINF:-1 tvg-id="64" tvg-name="Nick" tvg-logo="https://www.visionplus.id/images/repository/627/627-LOGO-l.png" group-title="CH V+ (Kids)",Nick (V+)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=60
+#EXTINF:-1 tvg-id="60" tvg-name="Nick Jr" tvg-logo="https://www.visionplus.id/images/repository/147/75147-LOGO-l.png" group-title="CH V+ (Kids)",Nick Jr (V+)
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=36
+#EXTINF:-1 tvg-id="36" tvg-name="Originals" tvg-logo="https://www.visionplus.id/images/repository/360/273360-LOGO-l.png" group-title="CH V+ (General)",Originals (V+)
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=101
+#EXTINF:-1 tvg-id="101" tvg-name="Outdoor Channel" tvg-logo="https://www.visionplus.id/images/repository/647/647-LOGO-l.png" group-title="CH V+ (General)",Outdoor Channel (V+)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1
+#EXTINF:-1 tvg-id="1" tvg-name="RCTI" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-l.png" group-title="CH V+ (National)",RCTI (V+)
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=201
+#EXTINF:-1 tvg-id="201" tvg-name="RCTI World" tvg-logo="https://www.visionplus.id/images/repository/426/173426-LOGO-l.png" group-title="CH V+ (National)",RCTI World (V+)
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/ac934bd649dc47f699f793634de01635/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=93
+#EXTINF:-1 tvg-id="93" tvg-name="Rock Action" tvg-logo="https://www.visionplus.id/images/repository/645/645-LOGO-l.png" group-title="CH V+ (General)",Rock Action (V+)
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
+
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="92" tvg-name="Rock Entertainment" tvg-logo="https://www.visionplus.id/images/repository/644/644-LOGO-l.png" group-title="CH V+ (General)",Rock Entertainment (V+)
+https://proxy-v.rctiplus.id/live/web/rockent/index.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=11
+#EXTINF:-1 tvg-id="11" tvg-name="RTV" tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-l.png" group-title="CH V+ (National)",RTV (V+)
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/b0eebcecfb12424cb5f3c3cdb239f3c1/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=8
+#EXTINF:-1 tvg-id="8" tvg-name="SCTV" tvg-logo="https://www.visionplus.id/images/repository/062/569062-LOGO-l.png" group-title="CH V+ (National)",SCTV (V+)
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=5
+#EXTINF:-1 tvg-id="5" tvg-name="SindoNews" tvg-logo="https://www.visionplus.id/images/repository/584/584-LOGO-l.png" group-title="CH V+ (News)",SindoNews (V+)
+https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=115
+#EXTINF:-1 tvg-id="115" tvg-name="Soccer Channel" tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-l.png" group-title="CH V+ (Sports)",Soccer Channel (V+)
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=112
+#EXTINF:-1 tvg-id="112" tvg-name="Sportstars" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-l.png" group-title="CH V+ (Sports)",Sportstars (V+)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=113
+#EXTINF:-1 tvg-id="113" tvg-name="Sportstars 2" tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-l.png" group-title="CH V+ (Sports)",Sportstars 2 (V+)
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=114
+#EXTINF:-1 tvg-id="114" tvg-name="Sportstars 3" tvg-logo="https://www.visionplus.id/images/repository/654/654-LOGO-l.png" group-title="CH V+ (Sports)",Sportstars 3 (V+)
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=119
+#EXTINF:-1 tvg-id="119" tvg-name="SpoTV 1" tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-l.png" group-title="CH V+ (General)",SpoTV 1 (V+)
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=120
+#EXTINF:-1 tvg-id="120" tvg-name="SpoTV 2" tvg-logo="https://www.visionplus.id/images/repository/657/657-LOGO-l.png" group-title="CH V+ (General)",SpoTV 2 (V+)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=54
+#EXTINF:-1 tvg-id="54" tvg-name="Studio Universal" tvg-logo="https://www.visionplus.id/images/repository/114/345114-LOGO-l.png" group-title="CH V+ (General)",Studio Universal (V+)
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=39
+#EXTINF:-1 tvg-id="39" tvg-name="Superrix" tvg-logo="https://www.visionplus.id/images/repository/394/273394-LOGO-l.png" group-title="CH V+ (General)",Superrix (V+)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=41
+#EXTINF:-1 tvg-id="41" tvg-name="Thrill" tvg-logo="https://www.visionplus.id/images/repository/609/609-LOGO-l.png" group-title="CH V+ (General)",Thrill (V+)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=7
+#EXTINF:-1 tvg-id="7" tvg-name="Trans 7" tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-l.png" group-title="CH V+ (National)",Trans 7 (V+)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=6
+#EXTINF:-1 tvg-id="6" tvg-name="Trans TV" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-l.png" group-title="CH V+ (National)",Trans TV (V+)
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=163
+#EXTINF:-1 tvg-id="163" tvg-name="TV5Monde" tvg-logo="https://www.visionplus.id/images/repository/311/580311-LOGO-l.png" group-title="CH V+ (General)",TV5Monde (V+)
+https://d1ebgtxjo246w3.cloudfront.net/out/v1/16374447d35a49a596b9ff6cda259fe0/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=73
+#EXTINF:-1 tvg-id="73" tvg-name="TVN" tvg-logo="https://www.visionplus.id/images/repository/103/458103-LOGO-l.png" group-title="CH V+ (Movies)",TVN (V+)
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=46
+#EXTINF:-1 tvg-id="46" tvg-name="TVN Movies" tvg-logo="https://www.visionplus.id/images/repository/614/614-LOGO-l.png" group-title="CH V+ (Movies)",TVN Movies (V+)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=12
+#EXTINF:-1 tvg-id="12" tvg-name="TVOne" tvg-logo="https://www.visionplus.id/images/repository/589/589-LOGO-l.png" group-title="CH V+ (National)",TVOne (V+)
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
+
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="16" tvg-name="TVRI" tvg-logo="https://www.visionplus.id/images/repository/593/593-LOGO-l.png" group-title="CH V+ (National)",TVRI (V+)
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=38
+#EXTINF:-1 tvg-id="38" tvg-name="Uniques" tvg-logo="https://www.visionplus.id/images/repository/397/273397-LOGO-l.png" group-title="CH V+ (General)",Uniques (V+)
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1010
+#EXTINF:-1 tvg-id="1010" tvg-name="V+ LIVE 2" tvg-logo="https://www.visionplus.id/images/repository/710/112710-LOGO-l.png" group-title="CH V+ (General)",V+ LIVE 2 (V+)
+https://d2o5iwa2ppb5z7.cloudfront.net/out/v1/dash/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=87
+#EXTINF:-1 tvg-id="87" tvg-name="Vision Prime" tvg-logo="https://www.visionplus.id/images/repository/641/641-LOGO-l.png" group-title="CH V+ (General)",Vision Prime (V+)
+https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
+
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="47" tvg-name="Zee Bioskop" tvg-logo="https://www.visionplus.id/images/repository/277/410277-LOGO-l.png" group-title="CH V+ (Movies)",Zee Bioskop (V+)
+https://proxy-v.rctiplus.id/live/web/zeebioskop/index.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.visionplus.id/&user-agent=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Google%20TV%20Streamer%20Build%2FUTT3.240625.001.K5%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F130.0.6723.60%20Mobile%20Safari%2F537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=63
+#EXTINF:-1 tvg-id="63" tvg-name="Zoo Moo" tvg-logo="https://www.visionplus.id/images/repository/626/626-LOGO-l.png" group-title="CH V+ (General)",Zoo Moo (V+)
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
+
