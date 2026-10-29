@@ -5,12 +5,12 @@ from datetime import datetime
 SOURCE_URL = "https://vision.mikrofast.web.id/m3u"
 EPG_URL = "https://vision.mikrofast.web.id/epg.xml"
 
-OUTPUT_M3U = "v.m3u"
-OUTPUT_LOG = "v.log"
+M3U_FILE = "v.m3u"
+LOG_FILE = "v.log"
 
 
 def clean_html(text):
-    # Ubah hyperlink HTML menjadi URL murni
+    # Ubah <a href="URL">teks</a> menjadi URL
     text = re.sub(
         r'<a[^>]*href="([^"]+)"[^>]*>.*?</a>',
         r'\1',
@@ -18,78 +18,67 @@ def clean_html(text):
         flags=re.IGNORECASE | re.DOTALL
     )
 
-    # Hapus tag HTML lainnya
-    text = re.sub(r'<[^>]+>', '', text)
+    # Hapus tag HTML lain jika ada
+    text = re.sub(
+        r'<[^>]+>',
+        '',
+        text
+    )
 
     return text
 
 
 try:
-    r = requests.get(SOURCE_URL, timeout=30)
-    r.raise_for_status()
+    response = requests.get(SOURCE_URL, timeout=30)
+    response.raise_for_status()
 
-    content = r.content.decode("utf-8", errors="ignore")
+    content = response.content.decode("utf-8", errors="ignore")
 
     # Bersihkan HTML
     content = clean_html(content)
 
     lines = content.splitlines()
 
-    cleaned = []
-
-    for line in lines:
-        line = line.strip()
-
-        if not line:
-            continue
-
-        # Hapus metadata Kodi
-        if line.startswith("#KODIPROP:"):
-            continue
-
-        cleaned.append(line)
-
-    # Header EPG
     epg_header = f'#EXTM3U url-tvg="{EPG_URL}"'
 
-    if cleaned and cleaned[0].startswith("#EXTM3U"):
-        cleaned[0] = epg_header
+    if lines and lines[0].startswith("#EXTM3U"):
+        lines[0] = epg_header
     else:
-        cleaned.insert(0, epg_header)
+        lines.insert(0, epg_header)
 
-    final_content = "\n".join(cleaned)
+    final_content = "\n".join(lines)
 
-    with open(OUTPUT_M3U, "w", encoding="utf-8", newline="\n") as f:
+    with open(M3U_FILE, "w", encoding="utf-8", newline="\n") as f:
         f.write(final_content)
 
     channel_count = final_content.count("#EXTINF")
 
-    log = f"""
+    log_text = f"""
 Time        : {datetime.now()}
-Source      : {SOURCE_URL}
-EPG         : {EPG_URL}
-Status      : {r.status_code}
+Source URL  : {SOURCE_URL}
+EPG URL     : {EPG_URL}
+Status Code : {response.status_code}
+File        : {M3U_FILE}
+Size        : {len(final_content.encode('utf-8'))} bytes
 Channels    : {channel_count}
-Size        : {len(final_content.encode('utf-8'))}
-Output      : {OUTPUT_M3U}
 Result      : SUCCESS
 """
 
-    with open(OUTPUT_LOG, "a", encoding="utf-8") as f:
-        f.write(log + "\n")
+    with open(LOG_FILE, "a", encoding="utf-8") as log:
+        log.write(log_text + "\n")
 
-    print(log)
+    print(log_text)
 
 except Exception as e:
 
-    log = f"""
+    log_text = f"""
 Time        : {datetime.now()}
-Source      : {SOURCE_URL}
+Source URL  : {SOURCE_URL}
 Result      : FAILED
-Error       : {e}
+Error       : {str(e)}
 """
 
-    with open(OUTPUT_LOG, "a", encoding="utf-8") as f:
-        f.write(log + "\n")
+    with open(LOG_FILE, "a", encoding="utf-8") as log:
+        log.write(log_text + "\n")
 
-    print(log)
+    print(log_text)
