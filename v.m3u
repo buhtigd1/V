@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://vision.mikrofast.web.id/epg.xml"
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36","Referer":"https://www.visionplus.id/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -989,4 +989,3 @@ https://proxy-v.rctiplus.id/live/web/zeebioskop/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=63
 #EXTINF:-1 tvg-id="63" tvg-name="Zoo Moo" tvg-logo="https://www.visionplus.id/images/repository/626/626-LOGO-l.png" group-title="CH V+ (General)",Zoo Moo (V+)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
-
