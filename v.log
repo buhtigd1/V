@@ -177,3 +177,13 @@ Size        : 118215 bytes
 Channels    : 101
 Result      : SUCCESS
 
+
+Time        : 2026-11-01 22:57:55.920439
+Source URL  : https://vision.mikrofast.web.id/m3u
+EPG URL     : https://vision.mikrofast.web.id/epg.xml
+Status Code : 200
+File        : v.m3u
+Size        : 118215 bytes
+Channels    : 101
+Result      : SUCCESS
+
