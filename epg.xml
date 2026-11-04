@@ -414,9 +414,6 @@
   <programme start="20261105070000 +0700" stop="20261105080000 +0700" channel="2">
     <title lang="en">Pada Zaman Dahulu</title>
   </programme>
-  <programme start="20261104060000 +0700" stop="20261104063000 +0700" channel="3">
-    <title lang="en">Buletin iNews Pagi</title>
-  </programme>
   <programme start="20261104063000 +0700" stop="20261104080000 +0700" channel="3">
     <title lang="en">Kiko</title>
   </programme>
@@ -831,9 +828,6 @@
   <programme start="20261105072500 +0700" stop="20261105090500 +0700" channel="49">
     <title lang="en">Death In Texas</title>
   </programme>
-  <programme start="20261104062000 +0700" stop="20261104063000 +0700" channel="56">
-    <title lang="en">Dunia Laluna Spc. Halloween</title>
-  </programme>
   <programme start="20261104063000 +0700" stop="20261104070000 +0700" channel="56">
     <title lang="en">Go Buster</title>
   </programme>
@@ -981,8 +975,8 @@
   <programme start="20261105072000 +0700" stop="20261105073000 +0700" channel="56">
     <title lang="en">O Iya Ya</title>
   </programme>
-  <programme start="20261104062200 +0700" stop="20261104063000 +0700" channel="58">
-    <title lang="en">Hey Duggee&apos;s Squirrel..., Ep 16</title>
+  <programme start="20261105073000 +0700" stop="20261105075500 +0700" channel="56">
+    <title lang="en">Barbie Dreamtopia</title>
   </programme>
   <programme start="20261104063000 +0700" stop="20261104064500 +0700" channel="58">
     <title lang="en">Go Jetters S3, Ep 13</title>
@@ -1494,6 +1488,9 @@
   <programme start="20261105071500 +0700" stop="20261105073000 +0700" channel="58">
     <title lang="en">Andy&apos;s Dino Island S1, Ep 9</title>
   </programme>
+  <programme start="20261105073000 +0700" stop="20261105075500 +0700" channel="58">
+    <title lang="en">Playtime Towers S1, Ep 14</title>
+  </programme>
   <programme start="20261104061500 +0700" stop="20261104064000 +0700" channel="60">
     <title lang="en">Rubble &amp; Crew</title>
   </programme>
@@ -1752,9 +1749,6 @@
   <programme start="20261105072500 +0700" stop="20261105075000 +0700" channel="60">
     <title lang="en">PAW Patrol</title>
   </programme>
-  <programme start="20261104061500 +0700" stop="20261104063000 +0700" channel="63">
-    <title lang="en">Leo: Wildlife Ranger S1, Ep 16</title>
-  </programme>
   <programme start="20261104063000 +0700" stop="20261104064500 +0700" channel="63">
     <title lang="en">Leo: Wildlife Ranger S1, Ep 17</title>
   </programme>
@@ -1808,6 +1802,12 @@
   </programme>
   <programme start="20261104091500 +0700" stop="20261104093000 +0700" channel="63">
     <title lang="en">Animal All Stars S1, Ep 4</title>
+  </programme>
+  <programme start="20261104093000 +0700" stop="20261104094500 +0700" channel="63">
+    <title lang="en">Animal All Stars S1, Ep 5</title>
+  </programme>
+  <programme start="20261104094500 +0700" stop="20261104100000 +0700" channel="63">
+    <title lang="en">Animal All Stars S1, Ep 6</title>
   </programme>
   <programme start="20261104061541 +0700" stop="20261104070041 +0700" channel="19">
     <title lang="en">LIPUTAN 6 PAGI MOJI</title>
@@ -1971,9 +1971,6 @@
   <programme start="20261105060000 +0700" stop="20261105080500 +0700" channel="54">
     <title lang="en">Downton Abbey</title>
   </programme>
-  <programme start="20261104060000 +0700" stop="20261104062800 +0700" channel="57">
-    <title lang="en">Little Angel</title>
-  </programme>
   <programme start="20261104062800 +0700" stop="20261104065900 +0700" channel="57">
     <title lang="en">Little Angel</title>
   </programme>
@@ -2119,6 +2116,9 @@
     <title lang="en">Little Angel</title>
   </programme>
   <programme start="20261105065900 +0700" stop="20261105072600 +0700" channel="57">
+    <title lang="en">The Melon Patch</title>
+  </programme>
+  <programme start="20261105072600 +0700" stop="20261105075100 +0700" channel="57">
     <title lang="en">The Melon Patch</title>
   </programme>
   <programme start="20261104060000 +0700" stop="20261104083000 +0700" channel="121">
@@ -2583,6 +2583,9 @@
   <programme start="20261105070000 +0700" stop="20261105073000 +0700" channel="130">
     <title lang="en">BBC News</title>
   </programme>
+  <programme start="20261105073000 +0700" stop="20261105080000 +0700" channel="130">
+    <title lang="en">Newscast</title>
+  </programme>
   <programme start="20261104060000 +0700" stop="20261104090000 +0700" channel="131">
     <title lang="en">Squawk Box Asia (L)</title>
   </programme>
@@ -2877,9 +2880,6 @@
   <programme start="20261105070000 +0700" stop="20261105080000 +0700" channel="134">
     <title lang="en">Prime Market Highlight</title>
   </programme>
-  <programme start="20261104050000 +0700" stop="20261104063000 +0700" channel="137">
-    <title lang="en">Hafiz Indonesia 2024</title>
-  </programme>
   <programme start="20261104063000 +0700" stop="20261104073000 +0700" channel="137">
     <title lang="en">Ayat-Ayat Langit</title>
   </programme>
@@ -2948,6 +2948,9 @@
   </programme>
   <programme start="20261105063000 +0700" stop="20261105073000 +0700" channel="137">
     <title lang="en">Ayat-Ayat Langit</title>
+  </programme>
+  <programme start="20261105073000 +0700" stop="20261105090000 +0700" channel="137">
+    <title lang="en">Jangan Bongkar Makam Ayah Ibu</title>
   </programme>
   <programme start="20261104060000 +0700" stop="20261104070000 +0700" channel="138">
     <title lang="en">Suara Alfa Omega</title>
@@ -3057,9 +3060,6 @@
   <programme start="20261105070000 +0700" stop="20261105080000 +0700" channel="138">
     <title lang="en">Rock Series</title>
   </programme>
-  <programme start="20261104053000 +0700" stop="20261104063000 +0700" channel="142">
-    <title lang="en">Juke Box</title>
-  </programme>
   <programme start="20261104063000 +0700" stop="20261104071500 +0700" channel="142">
     <title lang="en">Godain</title>
   </programme>
@@ -3116,9 +3116,6 @@
   </programme>
   <programme start="20261105071500 +0700" stop="20261105093000 +0700" channel="142">
     <title lang="en">DMD Panggung Rezeki</title>
-  </programme>
-  <programme start="20261104061500 +0700" stop="20261104063000 +0700" channel="146">
-    <title lang="en">Best Of DW-Online Content</title>
   </programme>
   <programme start="20261104063000 +0700" stop="20261104070000 +0700" channel="146">
     <title lang="en">Global Us: What Connects Us All</title>
@@ -3309,6 +3306,9 @@
   <programme start="20261105030000 +0700" stop="20261105033000 +0700" channel="146">
     <title lang="en">DW News</title>
   </programme>
+  <programme start="20261105033000 +0700" stop="20261105040000 +0700" channel="146">
+    <title lang="en">The Day: News In Review</title>
+  </programme>
   <programme start="20261104060000 +0700" stop="20261104070000 +0700" channel="5">
     <title lang="en">SINDO Files</title>
   </programme>
@@ -3390,8 +3390,8 @@
   <programme start="20261105070000 +0700" stop="20261105073000 +0700" channel="5">
     <title lang="en">The Comment</title>
   </programme>
-  <programme start="20261104050000 +0700" stop="20261104063000 +0700" channel="6">
-    <title lang="en">Islam Itu Indah</title>
+  <programme start="20261105073000 +0700" stop="20261105090000 +0700" channel="5">
+    <title lang="en">SINDO Today</title>
   </programme>
   <programme start="20261104063000 +0700" stop="20261104073000 +0700" channel="6">
     <title lang="en">Insert Pagi (L)</title>
@@ -3441,8 +3441,8 @@
   <programme start="20261105063000 +0700" stop="20261105073000 +0700" channel="6">
     <title lang="en">Insert Pagi (L)</title>
   </programme>
-  <programme start="20261104053000 +0700" stop="20261104063000 +0700" channel="7">
-    <title lang="en">Redaksi</title>
+  <programme start="20261105073000 +0700" stop="20261105083000 +0700" channel="6">
+    <title lang="en">CNN Indonesia Good Morning</title>
   </programme>
   <programme start="20261104063000 +0700" stop="20261104073000 +0700" channel="7">
     <title lang="en">Spotlite</title>
@@ -3533,6 +3533,9 @@
   </programme>
   <programme start="20261105063000 +0700" stop="20261105073000 +0700" channel="7">
     <title lang="en">Spotlite</title>
+  </programme>
+  <programme start="20261105073000 +0700" stop="20261105083000 +0700" channel="7">
+    <title lang="en">Selebrita Pagi</title>
   </programme>
   <programme start="20261104060000 +0700" stop="20261104070000 +0700" channel="8">
     <title lang="en">Hot Shot</title>
@@ -3735,9 +3738,6 @@
   <programme start="20261105050000 +0700" stop="20261105093000 +0700" channel="11">
     <title lang="en">Bread Barbershop</title>
   </programme>
-  <programme start="20261104060000 +0700" stop="20261104063000 +0700" channel="12">
-    <title lang="en">Kabar Arena Pagi 2</title>
-  </programme>
   <programme start="20261104063000 +0700" stop="20261104083000 +0700" channel="12">
     <title lang="en">Apa Kabar Indonesia Pagi</title>
   </programme>
@@ -3884,9 +3884,6 @@
   </programme>
   <programme start="20261105070000 +0700" stop="20261105093000 +0700" channel="13">
     <title lang="en">Sapa Indonesia Pagi</title>
-  </programme>
-  <programme start="20261104060000 +0700" stop="20261104063000 +0700" channel="14">
-    <title lang="en">Metro Sport</title>
   </programme>
   <programme start="20261104063000 +0700" stop="20261104070000 +0700" channel="14">
     <title lang="en">Go Healthy</title>
@@ -4098,6 +4095,9 @@
   <programme start="20261105070500 +0700" stop="20261105073000 +0700" channel="14">
     <title lang="en">Editorial Media Indonesia</title>
   </programme>
+  <programme start="20261105073000 +0700" stop="20261105080000 +0700" channel="14">
+    <title lang="en">Selamat Pagi Indonesia</title>
+  </programme>
   <programme start="20261104060300 +0700" stop="20261104073000 +0700" channel="15">
     <title lang="en">Jalan Dakwah</title>
   </programme>
@@ -4217,6 +4217,9 @@
   </programme>
   <programme start="20261105060300 +0700" stop="20261105073000 +0700" channel="15">
     <title lang="en">Jalan Dakwah</title>
+  </programme>
+  <programme start="20261105073000 +0700" stop="20261105080000 +0700" channel="15">
+    <title lang="en">Pecah Telur</title>
   </programme>
   <programme start="20261104060000 +0700" stop="20261104070000 +0700" channel="16">
     <title lang="en">Klik Indonesia Pagi</title>
@@ -4478,12 +4481,6 @@
   </programme>
   <programme start="20261105063000 +0700" stop="20261105080000 +0700" channel="26">
     <title lang="en">Bali TV</title>
-  </programme>
-  <programme start="20261104045500 +0700" stop="20261104062700 +0700" channel="36">
-    <title lang="en">A Boy Called Po</title>
-  </programme>
-  <programme start="20261104062700 +0700" stop="20261104063500 +0700" channel="36">
-    <title lang="en">73 Questions With D. Zoolander</title>
   </programme>
   <programme start="20261104063500 +0700" stop="20261104064500 +0700" channel="36">
     <title lang="en">24 Hours With Sofia Carson</title>
@@ -4808,5 +4805,8 @@
   </programme>
   <programme start="20261104181500 +0700" stop="20261104200000 +0700" channel="41">
     <title lang="en">Apartment 212</title>
+  </programme>
+  <programme start="20261104200000 +0700" stop="20261104214000 +0700" channel="41">
+    <title lang="en">Lost Memories</title>
   </programme>
 </tv>
