@@ -15,67 +15,82 @@ logging.basicConfig(
 )
 
 try:
-    logging.info("Starting EPG download")
+    logging.info("Downloading EPG")
 
-    response = requests.get(URL, timeout=120)
+    response = requests.get(
+        URL,
+        timeout=300,
+        headers={
+            "User-Agent": "EPG-Updater/1.0"
+        }
+    )
+
     response.raise_for_status()
 
-    xml_text = response.text
+    # gunakan bytes asli dari source
+    xml_text = response.content.decode("utf-8", errors="replace")
 
-    #
-    # Convert:
-    # <channel id="00000000000000000044">
-    # to:
-    # <channel id="44">
-    #
+    # hitung channel sebelum modifikasi
+    before_channels = len(
+        re.findall(
+            r'<channel\b[^>]*\bid="[^"]+"',
+            xml_text,
+            flags=re.IGNORECASE
+        )
+    )
+
+    # hapus leading zero hanya pada channel id
     xml_text = re.sub(
         r'(<channel\b[^>]*\bid=")0+(\d+)(")',
-        r'\1\2\3',
+        lambda m: f'{m.group(1)}{int(m.group(2))}{m.group(3)}',
         xml_text,
         flags=re.IGNORECASE
     )
 
-    #
-    # Convert:
-    # <programme channel="00000000000000000044">
-    # to:
-    # <programme channel="44">
-    #
+    # hapus leading zero hanya pada programme channel
     xml_text = re.sub(
         r'(<programme\b[^>]*\bchannel=")0+(\d+)(")',
-        r'\1\2\3',
+        lambda m: f'{m.group(1)}{int(m.group(2))}{m.group(3)}',
         xml_text,
         flags=re.IGNORECASE
     )
 
-    #
-    # Normalize possible zero-only values
-    #
-    xml_text = re.sub(
-        r'(<channel\b[^>]*\bid=")0+(")',
-        r'\g<1>0\2',
-        xml_text,
-        flags=re.IGNORECASE
+    # hitung channel sesudah modifikasi
+    after_channels = len(
+        re.findall(
+            r'<channel\b[^>]*\bid="[^"]+"',
+            xml_text,
+            flags=re.IGNORECASE
+        )
     )
 
-    xml_text = re.sub(
-        r'(<programme\b[^>]*\bchannel=")0+(")',
-        r'\g<1>0\2',
-        xml_text,
-        flags=re.IGNORECASE
+    unique_channels = sorted(
+        {
+            int(x)
+            for x in re.findall(
+                r'<channel\b[^>]*\bid="(\d+)"',
+                xml_text,
+                flags=re.IGNORECASE
+            )
+        }
     )
 
     with open(OUTPUT_XML, "w", encoding="utf-8", newline="\n") as f:
         f.write(xml_text)
 
-    logging.info(
-        "SUCCESS: epg.xml updated (%d bytes)",
-        len(xml_text.encode("utf-8"))
-    )
+    logging.info("Channels before : %s", before_channels)
+    logging.info("Channels after  : %s", after_channels)
+    logging.info("Unique channels : %s", len(unique_channels))
+    logging.info("Highest channel : %s", max(unique_channels))
 
-    print("SUCCESS")
+    print(f"Channels : {len(unique_channels)}")
+    print(f"Highest  : {max(unique_channels)}")
+
+    if before_channels != after_channels:
+        raise Exception(
+            f"Channel count mismatch ({before_channels} -> {after_channels})"
+        )
 
 except Exception as e:
     logging.exception("FAILED")
-    print(f"ERROR: {e}")
     raise
