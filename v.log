@@ -277,3 +277,13 @@ Size        : 118233 bytes
 Channels    : 101
 Result      : SUCCESS
 
+
+Time        : 2026-11-04 07:45:52.446610
+Source URL  : https://vision.mikrofast.web.id/m3u
+EPG URL     : https://raw.githubusercontent.com/didikc/EPG-2/main/epg/id-visionplus.xml
+Status Code : 200
+File        : v.m3u
+Size        : 118249 bytes
+Channels    : 101
+Result      : SUCCESS
+
