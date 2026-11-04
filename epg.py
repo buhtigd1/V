@@ -4,7 +4,7 @@ import re
 import requests
 import logging
 
-URL = "https://vision.mikrofast.web.id/epg.xml"
+URL = "https://raw.githubusercontent.com/didikc/EPG-2/main/epg/id-visionplus.xml"
 OUTPUT_XML = "epg.xml"
 LOG_FILE = "epg.log"
 
