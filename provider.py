@@ -3,7 +3,7 @@ import requests
 from datetime import datetime
 
 SOURCE_URL = "https://vision.mikrofast.web.id/m3u"
-EPG_URL = "https://raw.githubusercontent.com/didikc/EPG-2/main/epg/id-visionplus.xml"
+EPG_URL = "https://raw.githubusercontent.com/buhtigd1/V/main/epg.xml"
 
 M3U_FILE = "v.m3u"
 LOG_FILE = "v.log"
