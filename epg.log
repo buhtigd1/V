@@ -1,1 +1,3 @@
 [2026-11-04 00:19:00] SUCCESS: downloaded 263280 bytes from https://vision.mikrofast.web.id/epg.xml -> epg.xml
+2026-11-04 00:25:21,214 INFO Starting EPG download
+2026-11-04 00:25:24,904 INFO SUCCESS: epg.xml updated (234613 bytes)
