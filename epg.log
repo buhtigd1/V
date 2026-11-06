@@ -53,3 +53,9 @@
 2026-11-06 04:22:32,708 INFO Unique channels : 16
 2026-11-06 04:22:32,708 INFO Highest channel : 1018
 2026-11-06 04:22:32,708 INFO Created gzip    : epg.xml.gz
+2026-11-06 13:29:29,736 INFO Downloading EPG
+2026-11-06 13:29:30,723 INFO Channels before : 262
+2026-11-06 13:29:30,724 INFO Channels after  : 262
+2026-11-06 13:29:30,724 INFO Unique channels : 16
+2026-11-06 13:29:30,724 INFO Highest channel : 1018
+2026-11-06 13:29:30,724 INFO Created gzip    : epg.xml.gz
